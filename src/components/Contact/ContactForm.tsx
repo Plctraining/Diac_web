@@ -33,6 +33,7 @@ const courses = [
   "Customized Industrial Training",
   "PLC Vendor Training",
   "Corporate Training",
+  "PLS-CADD Training",
   "Other"
 ];
 
