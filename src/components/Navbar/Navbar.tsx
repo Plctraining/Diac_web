@@ -26,6 +26,10 @@ const navLinks = [
     href: "/corporate_training",
   },
   {
+  name: "Manpower",
+  href: "/Manpower"
+  },
+  {
     name: "Placement",
     href: "/placement",
   },
