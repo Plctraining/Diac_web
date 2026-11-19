@@ -36,6 +36,7 @@ export default function ManpowerHero() {
             <ArrowRight size={20} />
           </a>
         </div>
+    
       </div>
     </section>
   );
