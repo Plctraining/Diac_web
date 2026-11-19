@@ -1,7 +1,7 @@
 
 import type { Metadata } from "next";
-import ManpowerHero from "@/components/Manpower/ManpowerHero";
-import ManpowerMessage from "@/components/Manpower/ManpowerMessage";
+import ManpowerHero from "@/components/manpower/ManpowerHero";
+import ManpowerMessage from "@/components/manpower/ManpowerMessage";
 
 export const metadata: Metadata = {
   title: "Manpower Solutions | DIAC",
