@@ -27,7 +27,7 @@ const navLinks = [
   },
   {
   name: "Manpower",
-  href: "/Manpower"
+  href: "/manpower"
   },
   {
     name: "Placement",
