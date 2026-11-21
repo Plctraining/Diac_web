@@ -16,6 +16,7 @@ const courses = [
   "Panel Design",
   "Customized Industrial Training",
   "PLC Vendor Training",
+  "Manpower Consultancy",
   "Corporate Training",
   "PLS-CADD Training",
   "Other"
